@@ -32,7 +32,7 @@ Submit here: https://superteam.fun/earn/grants/agentic-engineering
 > The stack is Next.js + TypeScript, `@solana/wallet-adapter-react` for Phantom and Backpack support, `@solana/web3.js` with Helius RPC for SPL token reads, Helius DAS for NFT collection checks, Supabase Postgres for vault metadata and encrypted links, wallet-signature auth via `signMessage`, and Vercel for deployment. AI tools will be used to compress the build: Claude/Codex will scaffold the Next.js app, generate Supabase schema and RLS policies, implement signature verification, write the Helius token/NFT checks, and build the creator + visitor UI.
 
 **Deadline**
-> 2026-06-12, 11:59 PM IST
+> 2026-06-15, 11:59 PM IST
 
 **Proof of Work**
 > Proof package includes three AI session transcripts demonstrating agentic development:
