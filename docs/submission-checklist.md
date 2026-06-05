@@ -11,21 +11,7 @@ Grant link: https://superteam.fun/earn/grants/agentic-engineering
 - `claude-session.jsonl`: Claude session for concept refinement.
 - `antigravity-session.jsonl`: Antigravity IDE session covering full architecture, scaffolding, and implementation.
 
-## Solana.new Step
 
-1. Go to https://solana.new.
-2. Open a Claude or Codex session.
-3. Type:
-
-```text
-help me apply for the agentic engineering grant by Superteam
-```
-
-4. Let it scaffold the project structure and application files.
-5. Download/export those files.
-6. Upload the files to Google Drive.
-7. Set sharing to "Anyone with the link can view."
-8. Paste the Google Drive link in the last field of the grant form.
 
 ## Colosseum Crowdedness Score
 
@@ -56,8 +42,3 @@ Upload these files:
 - `antigravity-session.jsonl`
 - Colosseum Crowdedness Score screenshot
 
-## Optional Strong Additions
-
-- Push the project to a GitHub repo.
-- Deploy the MVP to Vercel.
-- Add a short Loom demo showing create vault → connect wallet → locked state → unlocked state.
